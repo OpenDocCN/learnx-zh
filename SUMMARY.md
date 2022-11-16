@@ -255,7 +255,7 @@
     +   [除非，直到，当](docs/260.md)
     +   [方法](docs/261.md)
     +   [带参数的方法](docs/262.md)
-    +   [Scala](docs/263.md)
++   [Scala](docs/263.md)
     +   [你好，世界！](docs/264.md)
     +   [变量和类型](docs/265.md)
     +   [数学](docs/266.md)
