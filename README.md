@@ -8,7 +8,7 @@
 > 
 > 没有所谓不变的道德，只有行得通与行不通。——《与神对话之新启示上》 
 
-* [在线阅读](https://lx.apachecn.org)
+* [在线阅读](https://lx.flygon.net)
 ## 下载
 
 ### Docker
